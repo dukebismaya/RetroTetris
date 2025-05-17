@@ -2,8 +2,7 @@
 
 A modern, cyberpunk-themed implementation of the classic Tetris game built with [Raylib](https://www.raylib.com/). This project features neon visual effects, dynamic animations, customizable audio settings, and an AI auto-play mode with multiple difficulty levels.
 
-![RetroTetris](screenshot-placeholder.png)  
-[Gameplay](image.png)
+![RetroTetris](image.png)
 
 ---
 
