@@ -128,5 +128,5 @@ RetroTetris/
 
 ## 📄 License
 
-This project is distributed under an open license.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, modify, and share this project for non-commercial purposes only. Commercial use or redistribution is strictly prohibited.
 See the [LICENSE](LICENSE) file for more details.
